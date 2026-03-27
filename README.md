@@ -21,8 +21,6 @@ Modules Summaries
 * Module 1: Digital Presentation
 The Goal: Show you can communicate ideas visually.
 
-Topic Idea: "The Anatomy of a Secure Password" or "How to Spot Deepfakes."
-
 * Module 2: Professional Portfolio
 The Goal: Build your online identity.
 
@@ -53,7 +51,7 @@ Case Study: Research a simple "Phishing" scam where someone lost access to an ac
 
 Repository Structure & Tasks
 
-* Task 1: Digital Presentation (task-1-presentation)
+* Task 1: Digital Presentation (task-1-presentation/)
 Focuses on visual communication. Includes a link to a Canva/Prezi presentation on Essential skill for modern student.
 
 * Task 2: Professional Portfolio (task-2-portfolio)
