@@ -53,6 +53,7 @@ Repository Structure & Tasks
 
 * Task 1: Digital Presentation ([./task-1-presentation.pdf/](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/blob/main/task-1-presentation.pdf))
 Focuses on visual communication. Includes a link to a Canva/Prezi presentation on Essential skill for modern student.
+**Canva link:**
 
 * Task 2: Professional Portfolio ([./task-2-portfolio.pdf/](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/blob/main/task-2-portfolio.pdf))
 Documentation of my professional digital identity, including screenshots and reflections on setting up a LinkedIn and GitHub profile.
