@@ -57,8 +57,9 @@ Focuses on visual communication. Includes a link to a Canva/Prezi presentation o
 * Task 2: Professional Portfolio ([./task-2-portfolio.pdf/](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/blob/main/task-2-portfolio.pdf))
 Documentation of my professional digital identity, including screenshots and reflections on setting up a LinkedIn and GitHub profile.
 
-* Task 3: Digital Learning Platforms (task-3-platforms)
-A showcase of digital learning tools (VITyarthi, NPTEL, Coursera) with evidence of activity and platform navigation.
+* Task 3: Digital Learning Platforms ([task-3-platforms](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/blob/main/task-3-platforms.pdf))
+A showcase of digital learning tools (Google form and HackRank) with evidence of activity and platform navigation.
+**Google Form Link:**([Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfIAPIS5SllU--1kcg3cQ9a2IpyBZ1oiyNeqdRHojdr5Yd0kQ/viewform?usp=publish-editor))
 
 * Task 4: Email Etiquette (task-4-email-etiquette)
 A guide to professional correspondence, featuring sample email drafts and a checklist for formal digital communication.
