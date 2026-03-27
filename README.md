@@ -67,7 +67,7 @@ A showcase of digital learning tools (Google form and HackRank) with evidence of
 * Task 4: Email Etiquette ([task-4-email-etiquette](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/tree/main/task-4-email-etiquette))
 A guide to professional correspondence, featuring sample email drafts and a checklist for formal digital communication.
 
-* Task 5: Cybercrime & Safety (task-5-cybercrime)
+* Task 5: Cybercrime & Safety ([task-5-cybercrime](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/tree/main/task-5-cybercrime))
 A detailed case study on a real-world cyber threat and a practical checklist for preventing digital fraud.
 
 ---
@@ -79,8 +79,8 @@ The complete, detailed project report covering all observations and reflections 
 
 Tools Used
 * Version Control: GitHub
-* Design: Canva / Prezi
+* Design: Canva 
 * Professional Networking: LinkedIn
-* Documentation: Microsoft Word / Google Docs
+* Documentation: Microsoft Word 
 
 
