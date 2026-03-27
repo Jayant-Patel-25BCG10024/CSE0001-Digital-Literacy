@@ -8,6 +8,7 @@ Registration No: 25BCG10024
 
 Institution: VIT Bhopal University
 
+---
 
 Project Overview
 This repository serves as my final project for the Digital Literacy course. In the role of a **Student Digital Ambassador**, I have curated this portfolio to help my peers navigate the digital landscape professionally, safely, and effectively.
@@ -73,7 +74,7 @@ A detailed case study on a real-world cyber threat and a practical checklist for
 ---
 
 Project Report
-The complete, detailed project report covering all observations and reflections can be found in the (report).
+The complete, detailed project report covering all observations and reflections can be found in the [Report](https://github.com/Jayant-Patel-25BCG10024/CSE0001-Digital-Literacy/blob/main/Project_Report.docx).
 
 ---
 
