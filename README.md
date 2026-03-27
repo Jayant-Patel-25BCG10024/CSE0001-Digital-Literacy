@@ -51,10 +51,10 @@ Case Study: Research a simple "Phishing" scam where someone lost access to an ac
 
 Repository Structure & Tasks
 
-* Task 1: Digital Presentation (task-1-presentation/)
+* Task 1: Digital Presentation (./task-1-presentation/)
 Focuses on visual communication. Includes a link to a Canva/Prezi presentation on Essential skill for modern student.
 
-* Task 2: Professional Portfolio (task-2-portfolio)
+* Task 2: Professional Portfolio (./task-2-portfolio/)
 Documentation of my professional digital identity, including screenshots and reflections on setting up a LinkedIn and GitHub profile.
 
 * Task 3: Digital Learning Platforms (task-3-platforms)
